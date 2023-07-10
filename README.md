@@ -34,11 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esta aplicação tem como objetivo calcular o IMC (Índice de Massa Corporal) de uma pessoa, a partir do peso em Kg e a altura em cm. Com esse IMC você consegue verificar a sua saúde e classificação de obesidade.
 
-- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/focustime2)
+- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/focus-timer-3.0/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://efficient-sloth-d85.notion.site/FocusTimer-Vers-o-2-0-2e273fa9212a432eae6b51dda3c695940). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nlJJAVuGDc1tnDKqUW4FJA/Stage-05---Dark-Mode-FocusTimer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
